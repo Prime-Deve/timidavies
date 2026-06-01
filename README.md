@@ -5,11 +5,11 @@
   <br/>
   <div align="start">
     
-  ## Hello, Bright Adelanke 
-  Frontend @Timitech
+  ## Hello, Adeniji Emmanuel Oyindamola
+  Frontend @Emmatech
 
   ### Catch up with me on:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BrightD78097782) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://) 
   [![](https://visitcount.itsvg.in/api?id=dprof-in-tech&icon=0&color=0)](https://visitcount.itsvg.in)
   </div>
   
